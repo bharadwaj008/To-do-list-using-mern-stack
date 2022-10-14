@@ -4,7 +4,7 @@
 ##### a friendly frontend app using `React.js` (Routing, Context API, React hooks, MaterialUI)
 
 ## First time configurations
-- `git clone https://github.com/mostafa3li/task-manager-app.git`
+- `git clone https://github.com/bharadwaj008/To-do-list-using-mern-stack.git`
 - `cd task-manager-app/ && npm install`
 - `touch .env`
 **==> add the following environment variables:**
@@ -30,4 +30,4 @@
 ## search for a Task
 ![](screenshots/3.png)
 ## view profile & update info & update image
-![](screenshots/4.png)
+
