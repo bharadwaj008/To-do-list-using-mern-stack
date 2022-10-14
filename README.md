@@ -22,12 +22,4 @@
 
 -----------------------------------------------------------------------------------------------------
 
-## Sign in
-![](screenshots/1.png)
-
-## add & edit & delete & view a Task
-![](screenshots/2.png)
-## search for a Task
-![](screenshots/3.png)
-## view profile & update info & update image
 
